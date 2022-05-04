@@ -1,10 +1,12 @@
 FileMenager:
-Import PDF 
-Extract the table
-Convert the table into object format
+Import PDF X
+Extract the table X
+Convert the table into object formatX
 Main:
 Create menu for the program
 Ask for the path to the PDF file
 Ask for the Format of the algorithm
 Algorithtm:
 Based on the the object calculate the possibilities for specific format
+GitToken: 
+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
