@@ -1,0 +1,10 @@
+FileMenager:
+Import PDF 
+Extract the table
+Convert the table into object format
+Main:
+Create menu for the program
+Ask for the path to the PDF file
+Ask for the Format of the algorithm
+Algorithtm:
+Based on the the object calculate the possibilities for specific format
